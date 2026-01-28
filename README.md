@@ -1,7 +1,8 @@
 # 🌿 Streamlit Mini Apps Project
 
 Streamlit과 생성형 AI를 활용해  
-짧은 기간 동안 다양한 미니 웹 앱을 구현해본 개인 실습 프로젝트입니다.
+짧은 기간 동안 다양한 미니 웹 앱을 구현해본 개인 실습 프로젝트
+(AI Vibe Coding)
 
 ---
 
